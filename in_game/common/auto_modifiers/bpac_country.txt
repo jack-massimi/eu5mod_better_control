@@ -1,0 +1,9 @@
+INJECT:country_base_values = {
+	sea_cost_on_distance_from_capital_when_maritime = 2.5
+	road_cost_on_distance_from_capital = 2.5
+	port_cost_distance_from_capital = 20
+	land_cost_going_upstream	= -15
+	land_cost_going_downstream	= 5
+	land_cost_on_frozen_water = 0
+}
+

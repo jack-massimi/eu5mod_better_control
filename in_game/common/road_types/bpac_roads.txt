@@ -1,0 +1,19 @@
+INJECT:gravel_road = {
+	market_access = -0.3
+}
+
+
+INJECT:paved_road = {
+	proximity = 5
+	market_access = -0.4
+}
+
+INJECT:modern_road = {
+	proximity = 10
+	market_access = -0.55
+}
+
+INJECT:railroad = {
+	proximity = 15
+	market_access = -0.75
+}

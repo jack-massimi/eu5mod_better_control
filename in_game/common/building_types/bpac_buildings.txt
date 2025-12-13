@@ -2,12 +2,13 @@
 
 REPLACE:bailiff = {
 	is_foreign = no
-	max_levels = 5
+	max_levels = bailiff_size
 	pop_type = soldiers
 	
 	employment_size = bailiff_employment
 	category = government_category
 	
+	expensive = yes
 	rural_settlement = no
 	town = yes
 	city = yes
@@ -37,4 +38,11 @@ REPLACE:bailiff = {
 		local_nobles_estate_power = 1.0
 	}
 	
+}
+
+INJECT:pound_lock_canal_infrastructure = {
+
+	rural_settlement = yes
+	town = yes
+
 }

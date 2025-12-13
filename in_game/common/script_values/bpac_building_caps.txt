@@ -1,0 +1,42 @@
+bailiff_size = {
+	add = {
+		desc = "BUILDING_LEVEL_BASE"
+		value = 1
+	}
+	if = {
+		limit = {
+			current_age_or_later = { age = age_2_renaissance }
+		}
+		add = {
+			desc = "age_2_renaissance"
+			value = 1
+		}
+	}
+	if = {
+		limit = {
+			current_age_or_later = { age = age_3_discovery }
+		}
+		add = {
+			desc = "age_3_discovery"
+			value = 1
+		}
+	}
+	if = {
+		limit = {
+			current_age_or_later = { age = age_4_reformation }
+		}
+		add = {
+			desc = "age_4_reformation"
+			value = 1
+		}
+	}
+	if = {
+		limit = {
+			current_age_or_later = { age = age_5_absolutism }
+		}
+		add = {
+			desc = "age_5_absolutism"
+			value = 1
+		}
+	}
+}
