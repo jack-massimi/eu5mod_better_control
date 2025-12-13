@@ -1,0 +1,11 @@
+﻿{
+	"name":	"better_control",
+	"id":	"better_control.myMod",
+	"version":	"0.10",
+	"supported_game_version":	"1.0.9",
+	"short_description":	"Better Control Mod",
+	"tags":	["Balance", "Gameplay"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
