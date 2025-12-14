@@ -2,7 +2,6 @@ INJECT:gravel_road = {
 	market_access = -0.3
 }
 
-
 INJECT:paved_road = {
 	proximity = 5
 	market_access = -0.4
