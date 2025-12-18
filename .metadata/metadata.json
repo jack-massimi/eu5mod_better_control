@@ -6,6 +6,7 @@
 	"short_description":	"Better Control Mod",
 	"tags":	["Balance", "Gameplay"],
 	"relationships":	[],
+	"picture": "thumbnail.png",
 	"game_custom_data":	{
 }
 }
